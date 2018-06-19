@@ -1,0 +1,12 @@
+{
+    "name": "minhsieh/php-bitcoin",
+    "description": "This is a PHP Bitcoin RPC Client library",
+    "type": "library",
+    "authors": [
+        {
+            "name": "minhsieh",
+            "email": "side112358@gmail.com"
+        }
+    ],
+    "require": {}
+}
